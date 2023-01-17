@@ -1,0 +1,4 @@
+tes 123
+ini 456
+lanjt 789
+terakhir 10
